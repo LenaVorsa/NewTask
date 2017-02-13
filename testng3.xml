@@ -1,0 +1,15 @@
+<suite name="Default Suite">
+    <test name="Task20">
+
+        <groups>
+            <run>
+                <exclude name="smoke"/>
+                <include name="fast"/>
+            </run>
+        </groups>
+
+        <classes>
+            <class name="Class1"/>
+        </classes>
+    </test>
+</suite>

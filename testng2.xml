@@ -1,0 +1,7 @@
+<suite name="Default Suite">
+    <test name="Task20">
+        <classes>
+            <class name="Class1"/>
+        </classes>
+    </test>
+</suite>
